@@ -1,6 +1,6 @@
 # 🔌 USB Hub
 
-A compact **4-Port USB 2.0 Hub** designed using **EasyEDA**, providing reliable USB connectivity through a single upstream USB connection. The project includes the complete schematic, PCB layout, and manufacturing files for PCB fabrication.
+A compact **4-Port USB 2.0 Hub** designed using **EasyEDA**, providing reliable USB connectivity through a single upstream USB connection. The project includes the complete schematic, PCB layout, and manufacturing files for PCB fabrication. I have made it from guide of macondo.
 
 ![PCB Preview](images/pcb.png)
 
@@ -35,41 +35,10 @@ The PCB was designed in **EasyEDA** following USB 2.0 design guidelines, with pr
 
 ## 📂 Repository Structure
 
-```
-USB-Hub/
-│
-├── PCB/
-│   ├── USB Hub PCB.json
-│   ├── Gerber/
-│   └── BOM/
-│
-├── Schematic/
-│   └── USB Hub Schematic.pdf
-│
-├── Images/
-│   ├── Schematic.png
-│   ├── PCB_Top.png
-│   ├── PCB_Bottom.png
-│   └── 3D_View.png
-│
-└── README.md
-```
 
 ---
 
-## 🖥 PCB Preview
-
-### Schematic
-
-*(Add schematic image here)*
-
-### PCB Layout
-
-*(Add PCB layout image here)*
-
-### 3D View
-
-*(Add EasyEDA 3D render here)*
+)*
 
 ---
 
@@ -129,9 +98,7 @@ This project demonstrates:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
